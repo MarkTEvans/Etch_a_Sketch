@@ -10,8 +10,8 @@
 .container {
   display: block;
   margin: auto;
-  width: 350px;
-  height: 350px;
+  width: 600px;
+  height: 600px;
   border: 1px solid black;
 }
 
