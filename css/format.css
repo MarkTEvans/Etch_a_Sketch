@@ -1,0 +1,31 @@
+.buttons_div{
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  margin: 5px 20px;
+}
+
+.container {
+  display: block;
+  margin: auto;
+  width: 350px;
+  height: 350px;
+  border: 1px solid black;
+}
+
+.pixel{
+  float: left;
+  margin: 0px;
+}
+
+.pixel_clear{
+  clear: left;
+  margin: 0px;
+}
+
+.filled {
+  float: left;
+  background-color: black;
+}
